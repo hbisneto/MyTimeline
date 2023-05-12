@@ -1,3 +1,7 @@
+### PyBridge sets to ignore
+.DS_Store
+### PyBridge sets to ignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
